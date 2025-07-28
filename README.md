@@ -74,11 +74,12 @@ Displays messages based on MQ-6 digital output
 
 
 Screenshots
-### 📸 Screenshots
+## 📸 Screenshots
 
 | Final Breadboard Circuit | Component Layout & Sensor Connections |
 |--------------------------|----------------------------------------|
-| ![Final Circuit](Image.jpeg) | ![Components](Imagee.jpeg) |
+| ![Breadboard](Image.jpeg) | ![Components](Imagee.jpeg) |
+
 
 
 
