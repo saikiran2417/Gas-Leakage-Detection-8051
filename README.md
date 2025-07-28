@@ -77,7 +77,7 @@ Displays messages based on MQ-6 digital output
 
 | Final Breadboard Circuit | Component Layout & Sensor Connections |
 |--------------------------|----------------------------------------|
-| ![Breadboard](Image.jpeg) | ![Components](Imagee.jpeg) |
+| ![Breadboard](Image.jpeg) | ![Components](Components.png) |
 
 
 
