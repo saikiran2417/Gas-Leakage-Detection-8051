@@ -73,12 +73,12 @@ Implements custom i2c_start(), i2c_write(), lcd_send_cmd() functions
 Displays messages based on MQ-6 digital output
 
 
-Screenshots
 ## 📸 Screenshots
 
 | Final Breadboard Circuit | Component Layout & Sensor Connections |
 |--------------------------|----------------------------------------|
-| <img src="Image.jpeg" width="300"/> | <img src="Imagee.jpeg" width="300"/> |
+| ![Breadboard](Image.jpeg) | ![Components](Imagee.jpeg) |
+
 
 
 
