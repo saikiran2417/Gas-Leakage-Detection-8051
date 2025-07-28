@@ -46,9 +46,9 @@ A real-time embedded system that monitors for harmful gas leaks using an MQ-6 se
 
 ```
 Gas_Leakage_Alert_System_8051/
-├── MP&MC_PROJECT.c                # Main embedded C code
-├── MP & MC PROJECT_FINAL.pdf     # Documentation with circuit + flow
-├── Image.jpeg / Image.png        # Real circuit images
+├── MP&MC_PROJECT.c # Main embedded C code
+├── MP & MC PROJECT_FINAL.pdf # Documentation with circuit + flow
+├── Image.jpeg / Image.png # Real circuit images
 └── README.md
 ```
 
@@ -79,6 +79,9 @@ Displays messages based on MQ-6 digital output
 |--------------------------|----------------------------------------|
 | ![Breadboard](Image.jpeg) | ![Components](Components.png) |
 
+
+## 📄 Project Report
+[Click here to view the full documentation (PDF)](MP%20&%20MC%20PROJECT_FINAL.pdf)
 
 
 
