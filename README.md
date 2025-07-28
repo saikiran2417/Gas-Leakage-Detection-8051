@@ -78,7 +78,7 @@ Screenshots
 
 | Final Breadboard Circuit | Component Layout & Sensor Connections |
 |--------------------------|----------------------------------------|
-| ![Breadboard](Image.jpeg) | ![Components](Imagee.jpeg) |
+| <img src="Image.jpeg" width="300"/> | <img src="Imagee.jpeg" width="300"/> |
 
 
 
